@@ -1,0 +1,3 @@
+#!/bin/bash
+Hello ="Hello Every One!!!!"
+echo "Hello $Hello $Hello"
